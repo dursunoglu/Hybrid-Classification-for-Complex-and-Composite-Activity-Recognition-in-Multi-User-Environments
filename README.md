@@ -1,0 +1,2 @@
+# Hybrid-Classification-for-Complex-and-Composite-Activity-Recognition-in-Multi-User-Environments
+Hybrid neuro-symbolic framework for complex and composite human activity recognition in multi-user wearable sensing environments. Combines CNN-BiLSTM temporal modeling, Graph Neural Networks (GNNs), attention-based sensor fusion, and probabilistic reasoning. Includes datasets, baselines, deployment benchmarks, and reproducibility resources.
