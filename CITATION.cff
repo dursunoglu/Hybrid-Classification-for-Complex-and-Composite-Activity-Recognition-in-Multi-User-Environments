@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it."
+title: "Synthetic Multi-User Wearable HAR Dataset and Hybrid Classification Framework"
+authors:
+  - family-names: "Dursunoglu"
+    given-names: "Halil Ibrahim"
+affiliation: "Western Michigan University"
+year: 2026
+version: "1.0.0"
+license: "MIT"
+repository-code: "https://github.com/YOUR_USERNAME/multi-user-har-framework"
+doi: "TO_BE_ADDED"
+keywords:
+  - human activity recognition
+  - wearable sensors
+  - multi-user HAR
+  - graph neural networks
+  - sensor fusion
+  - symbolic reasoning
